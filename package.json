@@ -1,0 +1,22 @@
+{
+  "name": "tredplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sick-tichun/tredplate.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Hnewma20 Tgaj20 Rsmith20 Tlawlo20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sick-tichun/tredplate/issues"
+  },
+  "homepage": "https://github.com/sick-tichun/tredplate#readme"
+}
